@@ -36,15 +36,15 @@
 
 $(function() {
   $('.index1').click(function() {
-    window.location = './index1.html';
+    window.location = '../index.html';
   });
 
   $('.index2').click(function() {
-    window.location = './index2.html';
+    window.location = './htmls/index2.html';
   });
 
   $('.index3').click(function() {
-    window.location = './index3.html';
+    window.location = './htmls/index3.html';
   });
 
   $('.back').click(function() {
